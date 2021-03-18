@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricDis
 - 👀 I’m interested in coding, tech, finance, sports and coffee ☕
-- 📫 Reach my via eMail
+- 📫 Reach me via eMail
 
 <!---
 EricDis/EricDis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
